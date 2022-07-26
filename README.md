@@ -6,7 +6,7 @@ function techPro() {
     if (frontEndDev == false) {
        return "I'm a Front-End student!"
     } else {
-        return "Hire me"
+        return "I'm a Front-End developer"
  }
  
  console.log(techPro());
