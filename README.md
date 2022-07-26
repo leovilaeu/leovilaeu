@@ -6,3 +6,13 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovilaeu&layout=compact&langs_count=7&theme=synthwave"/>
 
 </div>
+<code>
+<script> frontEndDev = false;
+function techPro() {
+    if (frontEndDev == false) {
+       return "I'm a Front-End student!"
+    } else {
+        return "Hire me"
+ }
+ console.log(techPro());
+ </script></code>
